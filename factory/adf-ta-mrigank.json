@@ -1,0 +1,9 @@
+{
+	"name": "adf-ta-mrigank",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "beeaf844-83f6-4f43-adf2-3756bb98dabf",
+		"tenantId": "f362a0a3-70b6-4d63-b6ac-c0b435aeec37"
+	}
+}
